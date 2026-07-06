@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# local data / secrets (do not commit raw exports or API keys)
+*.env
+raw_exports/

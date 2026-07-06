@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the accompanying paper."
+title: "A Tamil–Tanglish Corpus for Implicit and Explicit Hate Speech Detection"
+type: dataset
+authors:
+  - family-names: "Selva K"
+    given-names: "Kevin"
+    orcid: "https://orcid.org/0009-0008-2957-7862"
+    email: "kevinselva2000@gmail.com"
+    affiliation: "SRM Institute of Science and Technology, Kattankulathur, India"
+  - family-names: "Thilagavathy"
+    given-names: "R."
+    orcid: "https://orcid.org/0000-0002-4771-2844"
+    affiliation: "SRM Institute of Science and Technology, Kattankulathur, India"
+license: CC-BY-4.0
+year: 2026
+keywords:
+  - hate speech detection
+  - implicit hate speech
+  - code-mixed
+  - Tanglish
+  - Tamil
+  - Dravidian languages
+  - low-resource NLP
+preferred-citation:
+  type: article
+  title: "From Explicit to Implicit Hate Speech Detection in Low-Resource and Code-Mixed Languages: A Systematic Survey of Methods, Datasets, and Adaptation Strategies, with Emphasis on Dravidian Languages"
+  authors:
+    - family-names: "Selva K"
+      given-names: "Kevin"
+      orcid: "https://orcid.org/0009-0008-2957-7862"
+    - family-names: "Thilagavathy"
+      given-names: "R."
+      orcid: "https://orcid.org/0000-0002-4771-2844"
+  journal: "ACM Transactions on Asian and Low-Resource Language Information Processing"
+  year: 2026
