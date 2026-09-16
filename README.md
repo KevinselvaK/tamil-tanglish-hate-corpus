@@ -141,33 +141,9 @@ The implicit/explicit distinction — the novel dimension of this corpus — cle
 
 ---
 
-## Ethics and responsible use
 
-Only publicly available comments were collected; no private or account-level data is included.
-Author identities and @-mentions are not part of the released fields. The study is being conducted
-under institutional ethics review (SRMIST Institutional Ethics Committee); a consent waiver was
-sought for the use of public social-media data. By using this dataset you agree to use it only for
-research or educational purposes and not to attempt to re-identify, target, or harm any individual
-or group.
 
----
 
-## Citation
-
-If you use this corpus, please cite the accompanying paper (see [`CITATION.cff`](CITATION.cff)):
-
-```bibtex
-@article{selva2026implicit,
-  title   = {From Explicit to Implicit Hate Speech Detection in Low-Resource and Code-Mixed
-             Languages: A Systematic Survey of Methods, Datasets, and Adaptation Strategies,
-             with Emphasis on Dravidian Languages},
-  author  = {Selva K, Kevin and Thilagavathy R.},
-  journal = {ACM Transactions on Asian and Low-Resource Language Information Processing},
-  year    = {2026}
-}
-```
-
----
 
 ## License
 
