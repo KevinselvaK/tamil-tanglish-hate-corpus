@@ -175,7 +175,4 @@ Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)*
 [`LICENSE`](LICENSE). You may share and adapt the data with attribution. *(If you prefer to bar
 commercial reuse of this hate-speech data, switch to CC BY-NC 4.0.)*
 
-## Contact
 
-Kevin Selva K — kevinselva2000@gmail.com
-Department of Computing Technologies, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India
